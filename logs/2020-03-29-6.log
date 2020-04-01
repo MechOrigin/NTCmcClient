@@ -1,0 +1,194 @@
+[19:48:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:48:27] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:48:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:48:27] [main/INFO]: Forge Mod Loader version 14.23.5.2821 for Minecraft 1.12.2 loading
+[19:48:27] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\mathe\Twitch\Minecraft\Install\runtime\jre-x64
+[19:48:27] [main/INFO]: Searching C:\Users\mathe\Twitch\Minecraft\Instances\New NTC\mods for mods
+[19:48:27] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.5-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: The coremod com.thiakil.gottagofast.coremod.GottaGoFastLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HammerCore-1.12.2-2.0.4.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HardcoreBuoy-1.12-1.0.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod betterwithmods.core.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: The coremod LoadingPlugin (betterwithmods.core.LoadingPlugin) is not signed!
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HardcoreDarkness-MC1.12.2-2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod lumien.hardcoredarkness.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.4-124.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: The coremod LoadingPlugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.2-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Sound-Physics-Mod-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod CoreModLoader (com.sonicether.soundphysics.CoreModLoader) is not signed!
+[19:48:28] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ToughAsNails-1.12.2-3.1.0.73-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN]: The coremod toughasnails.asm.TANLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN]: The coremod TANLoadingPlugin (toughasnails.asm.TANLoadingPlugin) is not signed!
+[19:48:28] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
+[19:48:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:48:28] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[19:48:28] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[19:48:28] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:48:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/mathe/Twitch/Minecraft/Instances/New%20NTC/mods/phosphor-1.12.2-0.2.6+build50-universal.jar Service=LaunchWrapper Env=CLIENT
+[19:48:28] [main/DEBUG]: Instantiating coremod class PhosphorFMLLoadingPlugin
+[19:48:28] [main/DEBUG]: The coremod me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[19:48:28] [main/DEBUG]: Found signing certificates for coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin)
+[19:48:28] [main/DEBUG]: Found certificate f0387d288626cc2d937daa504e74af570c52a2f1
+[19:48:28] [main/DEBUG]: Enqueued coremod PhosphorFMLLoadingPlugin
+[19:48:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:48:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:48:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:48:28] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[19:48:28] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[19:48:28] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[19:48:28] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[19:48:28] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\Users\mathe\Twitch\Minecraft\Instances\New NTC\mods\OptiFine_1.12.2_HD_U_E3.jar
+[19:48:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:28] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[19:48:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[19:48:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[19:48:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[19:48:28] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[19:48:28] [main/DEBUG]: Injection complete
+[19:48:28] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[19:48:28] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[19:48:30] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:48:30] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[19:48:30] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[19:48:30] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[19:48:30] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod HCASM \{com.zeitheron.hammercore.asm.HCASM\} class transformers
+[19:48:30] [main/TRACE]: Registering transformer com.zeitheron.hammercore.asm.HammerCoreTransformer
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for HCASM \{com.zeitheron.hammercore.asm.HCASM\}
+[19:48:30] [main/DEBUG]: Running coremod plugin HCASM
+[19:48:30] [main/DEBUG]: Coremod plugin class HCASM run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod LoadingPlugin \{betterwithmods.core.LoadingPlugin\} class transformers
+[19:48:30] [main/TRACE]: Registering transformer betterwithmods.core.ClassTransformer
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for LoadingPlugin \{betterwithmods.core.LoadingPlugin\}
+[19:48:30] [main/DEBUG]: Running coremod plugin LoadingPlugin
+[19:48:30] [main/DEBUG]: Coremod plugin class LoadingPlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod LoadingPlugin \{vazkii.quark.base.asm.LoadingPlugin\} class transformers
+[19:48:30] [main/TRACE]: Registering transformer vazkii.quark.base.asm.ClassTransformer
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for LoadingPlugin \{vazkii.quark.base.asm.LoadingPlugin\}
+[19:48:30] [main/DEBUG]: Running coremod plugin LoadingPlugin
+[19:48:30] [main/DEBUG]: Coremod plugin class LoadingPlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod SSLoadingPlugin \{sereneseasons.asm.SSLoadingPlugin\} class transformers
+[19:48:30] [main/TRACE]: Registering transformer sereneseasons.asm.transformer.EntityRendererTransformer
+[19:48:30] [main/TRACE]: Registering transformer sereneseasons.asm.transformer.WorldTransformer
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for SSLoadingPlugin \{sereneseasons.asm.SSLoadingPlugin\}
+[19:48:30] [main/DEBUG]: Running coremod plugin SSLoadingPlugin
+[19:48:30] [main/DEBUG]: Coremod plugin class SSLoadingPlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod CoreModLoader \{com.sonicether.soundphysics.CoreModLoader\} class transformers
+[19:48:30] [main/TRACE]: Registering transformer com.sonicether.soundphysics.CoreModInjector
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for CoreModLoader \{com.sonicether.soundphysics.CoreModLoader\}
+[19:48:30] [main/DEBUG]: Running coremod plugin CoreModLoader
+[19:48:30] [main/DEBUG]: Coremod plugin class CoreModLoader run successfully
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/DEBUG]: Injecting coremod TANLoadingPlugin \{toughasnails.asm.TANLoadingPlugin\} class transformers
+[19:48:30] [main/TRACE]: Registering transformer toughasnails.asm.transformer.CropDecayTransformer
+[19:48:30] [main/TRACE]: Registering transformer toughasnails.asm.transformer.EntityRendererTransformer
+[19:48:30] [main/TRACE]: Registering transformer toughasnails.asm.transformer.WorldTransformer
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for TANLoadingPlugin \{toughasnails.asm.TANLoadingPlugin\}
+[19:48:30] [main/DEBUG]: Running coremod plugin TANLoadingPlugin
+[19:48:30] [main/DEBUG]: Coremod plugin class TANLoadingPlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:48:30] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@409986fe
+[19:48:30] [main/DEBUG]: Injecting coremod PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\} class transformers
+[19:48:30] [main/DEBUG]: Injection complete
+[19:48:30] [main/DEBUG]: Running coremod plugin for PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\}
+[19:48:30] [main/DEBUG]: Running coremod plugin PhosphorFMLLoadingPlugin
+[19:48:30] [main/INFO]: Compatibility level set to JAVA_8
+[19:48:30] [main/DEBUG]: Coremod plugin class PhosphorFMLLoadingPlugin run successfully
+[19:48:30] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[19:48:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:48:30] [main/DEBUG]: Validating minecraft
+[19:48:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:31] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:48:31] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:48:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:48:31] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:48:31] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[19:48:31] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[19:48:31] [main/INFO]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[19:48:31] [main/INFO]: A re-entrant transformer '$wrapper.lumien.resourceloader.asm.ClassTransformer' was detected and will no longer process meta class data
+[19:48:31] [main/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[19:48:31] [main/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[19:48:31] [main/INFO]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[19:48:31] [main/INFO]: Transforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[19:48:31] [main/INFO]: Transforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[19:48:31] [main/INFO]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
+[19:48:31] [main/WARN]: Error loading class: net/minecraft/world/World (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer toughasnails.asm.transformer.WorldTransformer@348ad293 from coremod TANLoadingPlugin)
+[19:48:31] [main/WARN]: @Mixin target net.minecraft.world.World was not found mixins.phosphor.json:common.MixinWorld
+[19:48:31] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:48:31] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[19:48:32] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[19:48:32] [main/INFO]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[19:48:32] [main/INFO]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[19:48:32] [main/INFO]:   -Patching EntityLivingBase
+[19:48:32] [main/INFO]:     -Modified method 'onItemUseFinish': added event call.
+[19:48:32] [main/ERROR]: Unable to launch
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/world/World
+	at net.minecraft.client.main.Main.main(SourceFile:38) ~[Main.class:?]
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.world.World
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(SourceFile:38) ~[Main.class:?]
+	... 6 more
+Caused by: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer toughasnails.asm.transformer.WorldTransformer@348ad293 from coremod TANLoadingPlugin
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:260) ~[forge-1.12.2-14.23.5.2821.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(SourceFile:38) ~[Main.class:?]
+	... 6 more
+Caused by: java.lang.RuntimeException: No method instruction node found matching amu getBiome (Let;)Lanh;
+	at toughasnails.asm.ASMHelper.getUniqueMethodInsnNode(ASMHelper.java:63) ~[ASMHelper.class:?]
+	at toughasnails.asm.transformer.WorldTransformer.transformWorld(WorldTransformer.java:127) ~[WorldTransformer.class:?]
+	at toughasnails.asm.transformer.WorldTransformer.transform(WorldTransformer.java:41) ~[WorldTransformer.class:?]
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:256) ~[forge-1.12.2-14.23.5.2821.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(SourceFile:38) ~[Main.class:?]
+	... 6 more
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.System.exit(System.java:971)
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[19:48:32] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)

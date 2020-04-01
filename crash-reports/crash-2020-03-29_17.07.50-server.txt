@@ -1,0 +1,159 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 3/29/20 5:07 PM
+Description: Exception initializing level
+
+java.lang.NullPointerException: Exception initializing level
+	at com.mcmoddev.orespawn.impl.os3.SpawnEntry.getMatcher(SpawnEntry.java:82)
+	at com.mcmoddev.orespawn.api.FeatureBase.spawn(FeatureBase.java:82)
+	at com.mcmoddev.orespawn.impl.features.PrecisionGenerator.spawnOreNode(PrecisionGenerator.java:123)
+	at com.mcmoddev.orespawn.impl.features.PrecisionGenerator.spawnAtSpot(PrecisionGenerator.java:86)
+	at com.mcmoddev.orespawn.impl.features.PrecisionGenerator.generate(PrecisionGenerator.java:59)
+	at com.mcmoddev.orespawn.impl.os3.SpawnEntry.generate(SpawnEntry.java:95)
+	at com.mcmoddev.orespawn.worldgen.OreSpawnWorldGen.lambda$generate$1(OreSpawnWorldGen.java:28)
+	at com.mcmoddev.orespawn.worldgen.OreSpawnWorldGen$$Lambda$880/1529417071.accept(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:512)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:502)
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)
+	at com.mcmoddev.orespawn.worldgen.OreSpawnWorldGen.generate(OreSpawnWorldGen.java:27)
+	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:985)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+	at net.minecraft.world.World.func_72964_e(World.java:310)
+	at net.minecraft.world.World.func_175726_f(World.java:305)
+	at net.minecraft.world.World.func_180495_p(World.java:911)
+	at net.minecraft.world.World.func_175623_d(World.java:230)
+	at net.minecraft.world.World.func_184141_c(World.java:210)
+	at net.minecraft.world.WorldProvider.func_76566_a(WorldProvider.java:76)
+	at net.minecraft.world.WorldServer.func_73052_b(WorldServer.java:944)
+	at net.minecraft.world.WorldServer.func_72963_a(WorldServer.java:866)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:123)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.mcmoddev.orespawn.impl.os3.SpawnEntry.getMatcher(SpawnEntry.java:82)
+	at com.mcmoddev.orespawn.api.FeatureBase.spawn(FeatureBase.java:82)
+	at com.mcmoddev.orespawn.impl.features.PrecisionGenerator.spawnOreNode(PrecisionGenerator.java:123)
+	at com.mcmoddev.orespawn.impl.features.PrecisionGenerator.spawnAtSpot(PrecisionGenerator.java:86)
+	at com.mcmoddev.orespawn.impl.features.PrecisionGenerator.generate(PrecisionGenerator.java:59)
+	at com.mcmoddev.orespawn.impl.os3.SpawnEntry.generate(SpawnEntry.java:95)
+	at com.mcmoddev.orespawn.worldgen.OreSpawnWorldGen.lambda$generate$1(OreSpawnWorldGen.java:28)
+	at com.mcmoddev.orespawn.worldgen.OreSpawnWorldGen$$Lambda$880/1529417071.accept(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:512)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:502)
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)
+	at com.mcmoddev.orespawn.worldgen.OreSpawnWorldGen.generate(OreSpawnWorldGen.java:27)
+	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:985)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+	at net.minecraft.world.World.func_72964_e(World.java:310)
+	at net.minecraft.world.World.func_175726_f(World.java:305)
+	at net.minecraft.world.World.func_180495_p(World.java:911)
+	at net.minecraft.world.World.func_175623_d(World.java:230)
+	at net.minecraft.world.World.func_184141_c(World.java:210)
+	at net.minecraft.world.WorldProvider.func_76566_a(WorldProvider.java:76)
+	at net.minecraft.world.WorldServer.func_73052_b(WorldServer.java:944)
+
+-- Affected level --
+Details:
+	Level name: Flat 5
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 5 Drop: 0
+	Level seed: -4267895401948453553
+	Level generator: ID 01 - flat, ver 0. Features enabled: true
+	Level generator options: 3;minecraft:bedrock,230*minecraft:stone;3;biome_1,decoration,stronghold,mineshaft,dungeon
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.world.WorldServer.func_72963_a(WorldServer.java:866)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:123)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1055090632 bytes (1006 MB) / 2048393216 bytes (1953 MB) up to 3008888832 bytes (2869 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx3228m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2821 36 mods loaded, 36 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                 | Version         | Source                                           | Signature                                |
+	|:------ |:------------------ |:--------------- |:------------------------------------------------ |:---------------------------------------- |
+	| LCHIJA | minecraft          | 1.12.2          | minecraft.jar                                    | None                                     |
+	| LCHIJA | mcp                | 9.42            | minecraft.jar                                    | None                                     |
+	| LCHIJA | FML                | 8.0.99.99       | forge-1.12.2-14.23.5.2821.jar                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge              | 14.23.5.2821    | forge-1.12.2-14.23.5.2821.jar                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | mmdlib             | 1.0.0-rc2       | MMDLib-1.12-1.0.0-rc2.36.jar                     | None                                     |
+	| LCHIJA | basemetals         | 2.5.0-rc2       | BaseMetals-1.12-2.5.0-rc2.332.jar                | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | baseminerals       | 2.5.0-rc2       | BaseMinerals-1.12-2.5.0-rc2.69.jar               | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | biomesoplenty      | 7.0.1.2441      | BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar    | None                                     |
+	| LCHIJA | codechickenlib     | 3.2.3.358       | CodeChickenLib-1.12.2-3.2.3.358-universal.jar    | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | redstoneflux       | 2.1.0           | RedstoneFlux-1.12-2.1.0.6-universal.jar          | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | cofhcore           | 4.6.3           | CoFHCore-1.12.2-4.6.3.27-universal.jar           | None                                     |
+	| LCHIJA | cofhworld          | 1.3.1           | CoFHWorld-1.12.2-1.3.1.7-universal.jar           | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | crafttweaker       | 4.1.20          | CraftTweaker2-1.12-4.1.20.jar                    | None                                     |
+	| LCHIJA | ctgui              | 1.0.0           | CraftTweaker2-1.12-4.1.20.jar                    | None                                     |
+	| LCHIJA | jei                | 4.15.0.291      | jei_1.12.2-4.15.0.291.jar                        | None                                     |
+	| LCHIJA | crafttweakerjei    | 2.0.3           | CraftTweaker2-1.12-4.1.20.jar                    | None                                     |
+	| LCHIJA | modernmetals       | 2.5.0-rc2       | ModernMetals-1.12-2.5.0-rc2.152.jar              | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | endmetals          | 1.2.0-rc2       | EndMetals-1.12-1.2.0-rc2.67.jar                  | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | zerocore           | 1.12.2-0.1.2.8  | zerocore-1.12.2-0.1.2.8.jar                      | None                                     |
+	| LCHIJA | bigreactors        | 1.12.2-0.4.5.67 | ExtremeReactors-1.12.2-0.4.5.67.jar              | None                                     |
+	| LCHIJA | waila              | 1.8.26          | Hwyla-1.8.26-B41_1.12.2.jar                      | None                                     |
+	| LCHIJA | justenoughreactors | 1.1.3.61        | JustEnoughReactors-1.12.2-1.1.3.61.jar           | 2238d4a92d81ab407741a2fdb741cebddfeacba6 |
+	| LCHIJA | jeresources        | 0.9.2.60        | JustEnoughResources-1.12.2-0.9.2.60.jar          | None                                     |
+	| LCHIJA | nethermetals       | 1.2.0-rc2       | NetherMetals-1.12-1.2.0-rc2.76.jar               | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | thermalfoundation  | 2.6.3           | ThermalFoundation-1.12.2-2.6.3.27-universal.jar  | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | undergroundbiomes  | 1.3.7           | UndergroundBiomesConstructs-1.12-1.3.7.jar       | None                                     |
+	| LCHIJA | ore_stone_variants | 4.6             | ore_stone_variants-4.6.jar                       | None                                     |
+	| LCHIJA | orespawn           | 3.3.1           | OreSpawn-1.12-3.3.1.172.jar                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | oreveins           | 2.0.15          | oreveins-2.0.15.jar                              | None                                     |
+	| LCHIJA | thermalexpansion   | 5.5.4           | ThermalExpansion-1.12.2-5.5.4.43-universal.jar   | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | thermalcultivation | 0.3.3           | ThermalCultivation-1.12.2-0.3.3.12-universal.jar | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | thermaldynamics    | 2.5.5           | ThermalDynamics-1.12.2-2.5.5.21-universal.jar    | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | thermalinnovation  | 0.3.3           | ThermalInnovation-1.12.2-0.3.3.12-universal.jar  | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | wawla              | 2.6.274         | Wawla-1.12.2-2.6.274.jar                         | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | worldstripper      | 1.6.0-1.12.2    | World-Stripper-1.6.0-1.12.2.jar                  | None                                     |
+	| LCHIJA | densemetals        | 2.0.0           | DenseMetals-1.12.2-2.0.0.30.jar                  | d476d1b22b218a10d845928d1665d45fce301b27 |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 8; []
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

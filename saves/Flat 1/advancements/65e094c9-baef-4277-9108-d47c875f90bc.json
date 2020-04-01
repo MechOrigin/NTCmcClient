@@ -1,0 +1,14 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-03-29 09:24:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills": "2020-03-29 09:20:51 -0700"
+    },
+    "done": false
+  }
+}
