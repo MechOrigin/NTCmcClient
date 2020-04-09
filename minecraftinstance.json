@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-04-09T13:57:03.5308708Z",
+  "lastPlayed": "2020-04-09T15:25:23.4401575Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -8223,6 +8223,74 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 224728,
+      "gameInstanceID": "568a6393-5ccf-49ab-81b7-b206ce2b8d7f",
+      "installedFile": {
+        "id": 2902494,
+        "displayName": "FloodLights-1.12.2-1.4.1-18.jar",
+        "fileName": "FloodLights-1.12.2-1.4.1-18.jar",
+        "fileDate": "2020-03-15T17:13:07.55Z",
+        "fileLength": 192434,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2902/494/FloodLights-1.12.2-1.4.1-18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 882913544,
+            "type": 0
+          },
+          {
+            "foldername": "de",
+            "fingerprint": 1014263366,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1459411425,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3881186988,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2908945921,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FloodLights-1.12.2-1.4.1-18.jar"
+      },
+      "dateInstalled": "2020-04-09T15:15:39.0398213Z",
+      "dateUpdated": "2020-04-09T15:15:39.0438218Z",
+      "dateLastUpdateAttempted": "2020-04-09T15:15:39.0438218Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 226406,
