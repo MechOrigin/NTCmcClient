@@ -1,71 +1,150 @@
 ///////////////////////////////
-// Greetings, round 2
+// Greetings, round 2 
 ///////////////////////////////
+
+// moved from NTC to new NTC folder dont edit this one anymore //
 
 Vanilla:
 
-gold
-iron
-coal
-lapis
-diamond
-redstone
-emerald
-quartz
+✓			gold
+✓			iron
+✓			coal
+✓			lapis
+✓			diamond
+✓			redstone
+✓			emerald
+✓			quartz
 
 ThermalFoundation:
 
-copper
-tin
-silver
-lead
-aluminum
-nickel
-platinum
-iridium
+✓			copper
+✓			tin
+✓			silver
+✓			lead
+✓			aluminum
+✓			nickel
+✓			platinum
+✓			iridium
 
 BaseMetals:
 
-antimony
-bismuth
-copper
-lead
-nickel
-silver
-tin
-zinc
-adamantine
-coldiron
-platinum
-starsteel
-mercury
+✗			antimony
+✗			bismuth
+✓			copper
+✓			lead
+✓			nickel
+✓			silver
+✓			tin
+✓			zinc
+✗			adamantine
+✓			coldiron
+✓			platinum
+✓			starsteel
+✓			mercury
+✓			mithril
+✗			brass
+✓			aquarium
+✗			bronze
+✗			cupronickel
+✓			electrum
+✓			invar
+✗			pewter
+✓			steel
+	Notes:
+		coldiron, silver, mercury used to make mithril dust - Mana infused - pulverizer can only turn mithril to mana-infused
+		starsteel good for dumping into EMC
 
 ModernMetals:
 
-aluminum
-beryllium
-boron
-chromium
-magnesium
-manganese
-osmium
-rutile
-tantalum
-thorium
-tungsten
-zirconium
-cadmium
-iridium
-plutonium
-uranium
-titanium
+✓			aluminum
+✗			beryllium
+✗			boron
+✗			chromium
+✗			magnesium
+✗			manganese
+✓			osmium
+✓			rutile
+✗			tantalum
+✗			thorium
+✗			tungsten
+✗			zirconium
+✗			cadmium
+✓			iridium
+✗			plutonium
+✓			uranium
+✓			titanium
+?			galvanizedsteel
+			stainlesssteel
+			aluminumbrass
+			
+	Notes:
+		figure out how to implement plutonium and uranium to extreme reactors
+			
+	Things to remove out of this Metals:
+				Crack hammer
+				gears
+				rods
+				slab
+				wall
+				crossbow
+				lever
+				button
+				bolt
+				stairs
+				fishing rod
+				bow
+				shield
+				tiny pile
+				rods
+				arrow
+				door
+				trapdoor
+				casing
+				clump
+				crushed
+				shard
+				crystal
+				bars
+				casing
+				pressure plate
+				
+				
 
 BaseMinerals:
 
-lithium
-niter
-phosphorus
-potash
-salt
-saltpeter
-sulfur
+✗			lithium
+✗			niter
+✗			phosphorus
+✓			potash
+✓			salt
+✓			saltpeter
+✓			sulfur
+
+advanced rocketry:
+
+✓			dilithium
+✗			copper
+✗			tin
+✓			rutile (titanium)
+✗			aluminum
+✓			iridium
+
+	Things to remove out of this mod:
+				
+
+extra utilities:
+
+✗			compressed cobble
+✗			compressed dirt
+✗			compressed sand
+✗			compressed gravel
+✗			compressed netherrack
+
+
+Things to fix:
+
+✓ QuarkBasalt.zs - could not resolve quark: basalt 
+✓ Deep dark portal frame has no recipe..
+ Add oreveins to dimensions deep dark and quarry dim... possibly RF dims as well...
+✓ add back osmium because of mek
+✓ remove the other ores from mek copper/tin

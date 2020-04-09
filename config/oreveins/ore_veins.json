@@ -435,5 +435,27 @@
       "mutated_extreme_hills",
       "mutated_extreme_hills_with_trees"
     ]
+  },
+  "osmium_ore": {
+    "type": "cone",
+    "ore": [
+      {
+        "block": "modernmetals:osmium_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_osmium_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 20,
+    "min_y": 0,
+    "max_y": 32,
+    "density": 300,
+    "vertical_size": 8,
+    "horizontal_size": 4,
+    "inverted": false,
+    "shape": 0.5
   }
 }

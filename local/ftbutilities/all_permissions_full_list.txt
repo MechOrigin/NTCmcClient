@@ -1,4 +1,4 @@
-8982 nodes in total
+9281 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -919,6 +919,13 @@ ftbutilities.claims.block.edit.chisel.wool_purple: OP
 ftbutilities.claims.block.edit.chisel.wool_red: OP
 ftbutilities.claims.block.edit.chisel.wool_white: OP
 ftbutilities.claims.block.edit.chisel.wool_yellow: OP
+ftbutilities.claims.block.edit.compactmachines3.craftinghologram: OP
+ftbutilities.claims.block.edit.compactmachines3.fieldprojector: OP
+ftbutilities.claims.block.edit.compactmachines3.machine: OP
+ftbutilities.claims.block.edit.compactmachines3.redstonetunnel: OP
+ftbutilities.claims.block.edit.compactmachines3.tunnel: OP
+ftbutilities.claims.block.edit.compactmachines3.wall: OP
+ftbutilities.claims.block.edit.compactmachines3.wallbreakable: OP
 ftbutilities.claims.block.edit.cpd.compressedcobblestone: OP
 ftbutilities.claims.block.edit.cpd.compresseddirt: OP
 ftbutilities.claims.block.edit.cpd.compressedendstone: OP
@@ -1160,6 +1167,7 @@ ftbutilities.claims.block.edit.endmetals.end_lapis_ore: OP
 ftbutilities.claims.block.edit.endmetals.end_lead_ore: OP
 ftbutilities.claims.block.edit.endmetals.end_mercury_ore: OP
 ftbutilities.claims.block.edit.endmetals.end_nickel_ore: OP
+ftbutilities.claims.block.edit.endmetals.end_osmium_ore: OP
 ftbutilities.claims.block.edit.endmetals.end_platinum_ore: OP
 ftbutilities.claims.block.edit.endmetals.end_redstone_ore: OP
 ftbutilities.claims.block.edit.endmetals.end_rutile_ore: OP
@@ -1485,6 +1493,20 @@ ftbutilities.claims.block.edit.harvestcraft.watertrap: OP
 ftbutilities.claims.block.edit.harvestcraft.waxcomb: OP
 ftbutilities.claims.block.edit.harvestcraft.well: OP
 ftbutilities.claims.block.edit.harvestcraft.windygarden: OP
+ftbutilities.claims.block.edit.icbmclassic.batterybox: OP
+ftbutilities.claims.block.edit.icbmclassic.concrete: OP
+ftbutilities.claims.block.edit.icbmclassic.cruiselauncher: OP
+ftbutilities.claims.block.edit.icbmclassic.emptower: OP
+ftbutilities.claims.block.edit.icbmclassic.explosives: OP
+ftbutilities.claims.block.edit.icbmclassic.glassbutton: OP
+ftbutilities.claims.block.edit.icbmclassic.glasspressureplate: OP
+ftbutilities.claims.block.edit.icbmclassic.launcherbase: OP
+ftbutilities.claims.block.edit.icbmclassic.launcherframe: OP
+ftbutilities.claims.block.edit.icbmclassic.launcherscreen: OP
+ftbutilities.claims.block.edit.icbmclassic.multiblock: OP
+ftbutilities.claims.block.edit.icbmclassic.radarstation: OP
+ftbutilities.claims.block.edit.icbmclassic.reinforcedglass: OP
+ftbutilities.claims.block.edit.icbmclassic.spikes: OP
 ftbutilities.claims.block.edit.industrialforegoing.animal_byproduct_recolector: OP
 ftbutilities.claims.block.edit.industrialforegoing.animal_growth_increaser: OP
 ftbutilities.claims.block.edit.industrialforegoing.animal_independence_selector: OP
@@ -1590,6 +1612,26 @@ ftbutilities.claims.block.edit.lootbags.loot_opener: OP
 ftbutilities.claims.block.edit.lootbags.loot_recycler: OP
 ftbutilities.claims.block.edit.lootbags.loot_storage: OP
 ftbutilities.claims.block.edit.mcjtylib_ng.multipart: OP
+ftbutilities.claims.block.edit.mekanism.basicblock2: OP
+ftbutilities.claims.block.edit.mekanism.basicblock: OP
+ftbutilities.claims.block.edit.mekanism.boundingblock: OP
+ftbutilities.claims.block.edit.mekanism.cardboardbox: OP
+ftbutilities.claims.block.edit.mekanism.energycube: OP
+ftbutilities.claims.block.edit.mekanism.gastank: OP
+ftbutilities.claims.block.edit.mekanism.glowpanel: OP
+ftbutilities.claims.block.edit.mekanism.glowplasticblock: OP
+ftbutilities.claims.block.edit.mekanism.machineblock2: OP
+ftbutilities.claims.block.edit.mekanism.machineblock3: OP
+ftbutilities.claims.block.edit.mekanism.machineblock: OP
+ftbutilities.claims.block.edit.mekanism.obsidiantnt: OP
+ftbutilities.claims.block.edit.mekanism.oreblock: OP
+ftbutilities.claims.block.edit.mekanism.plasticblock: OP
+ftbutilities.claims.block.edit.mekanism.plasticfence: OP
+ftbutilities.claims.block.edit.mekanism.reinforcedplasticblock: OP
+ftbutilities.claims.block.edit.mekanism.roadplasticblock: OP
+ftbutilities.claims.block.edit.mekanism.saltblock: OP
+ftbutilities.claims.block.edit.mekanism.slickplasticblock: OP
+ftbutilities.claims.block.edit.mekanism.transmitter: OP
 ftbutilities.claims.block.edit.minecraft.acacia_door: OP
 ftbutilities.claims.block.edit.minecraft.acacia_fence: OP
 ftbutilities.claims.block.edit.minecraft.acacia_fence_gate: OP
@@ -1855,6 +1897,10 @@ ftbutilities.claims.block.edit.modernmetals.iridium: OP
 ftbutilities.claims.block.edit.modernmetals.iridium_block: OP
 ftbutilities.claims.block.edit.modernmetals.iridium_ore: OP
 ftbutilities.claims.block.edit.modernmetals.iridium_plate: OP
+ftbutilities.claims.block.edit.modernmetals.osmium: OP
+ftbutilities.claims.block.edit.modernmetals.osmium_block: OP
+ftbutilities.claims.block.edit.modernmetals.osmium_ore: OP
+ftbutilities.claims.block.edit.modernmetals.osmium_plate: OP
 ftbutilities.claims.block.edit.modernmetals.rutile: OP
 ftbutilities.claims.block.edit.modernmetals.rutile_block: OP
 ftbutilities.claims.block.edit.modernmetals.rutile_ore: OP
@@ -1877,6 +1923,7 @@ ftbutilities.claims.block.edit.nethermetals.nether_lapis_ore: OP
 ftbutilities.claims.block.edit.nethermetals.nether_lead_ore: OP
 ftbutilities.claims.block.edit.nethermetals.nether_mercury_ore: OP
 ftbutilities.claims.block.edit.nethermetals.nether_nickel_ore: OP
+ftbutilities.claims.block.edit.nethermetals.nether_osmium_ore: OP
 ftbutilities.claims.block.edit.nethermetals.nether_platinum_ore: OP
 ftbutilities.claims.block.edit.nethermetals.nether_redstone_ore: OP
 ftbutilities.claims.block.edit.nethermetals.nether_rutile_ore: OP
@@ -1956,6 +2003,7 @@ ftbutilities.claims.block.edit.refinedstorage.storage: OP
 ftbutilities.claims.block.edit.refinedstorage.storage_monitor: OP
 ftbutilities.claims.block.edit.refinedstorage.wireless_transmitter: OP
 ftbutilities.claims.block.edit.refinedstorage.writer: OP
+ftbutilities.claims.block.edit.refinedstoragerequestify.requester: OP
 ftbutilities.claims.block.edit.rftools.analog_block: OP
 ftbutilities.claims.block.edit.rftools.block_protector: OP
 ftbutilities.claims.block.edit.rftools.booster: OP
@@ -2180,8 +2228,12 @@ ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_gold_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_halfslab: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_iron_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_lapis_ore: OP
+ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_mekanism_oreblock: OP
+ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_mekanism_oreblock_1: OP
+ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_mekanism_oreblock_2: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_modernmetals_aluminum_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_modernmetals_iridium_ore: OP
+ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_modernmetals_osmium_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_modernmetals_rutile_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_modernmetals_titanium_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.igneous_stone_redstone_ore: OP
@@ -2282,8 +2334,12 @@ ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_gold_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_halfslab: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_iron_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_lapis_ore: OP
+ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_mekanism_oreblock: OP
+ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_mekanism_oreblock_1: OP
+ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_mekanism_oreblock_2: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_modernmetals_aluminum_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_modernmetals_iridium_ore: OP
+ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_modernmetals_osmium_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_modernmetals_rutile_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_modernmetals_titanium_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.metamorphic_stone_redstone_ore: OP
@@ -2361,8 +2417,12 @@ ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_gold_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_halfslab: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_iron_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_lapis_ore: OP
+ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_mekanism_oreblock: OP
+ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_mekanism_oreblock_1: OP
+ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_mekanism_oreblock_2: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_modernmetals_aluminum_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_modernmetals_iridium_ore: OP
+ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_modernmetals_osmium_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_modernmetals_rutile_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_modernmetals_titanium_ore: OP
 ftbutilities.claims.block.edit.undergroundbiomes.sedimentary_stone_mossy: OP
@@ -3060,6 +3120,13 @@ ftbutilities.claims.block.interact.chisel.wool_purple: OP
 ftbutilities.claims.block.interact.chisel.wool_red: OP
 ftbutilities.claims.block.interact.chisel.wool_white: OP
 ftbutilities.claims.block.interact.chisel.wool_yellow: OP
+ftbutilities.claims.block.interact.compactmachines3.craftinghologram: OP
+ftbutilities.claims.block.interact.compactmachines3.fieldprojector: OP
+ftbutilities.claims.block.interact.compactmachines3.machine: OP
+ftbutilities.claims.block.interact.compactmachines3.redstonetunnel: OP
+ftbutilities.claims.block.interact.compactmachines3.tunnel: OP
+ftbutilities.claims.block.interact.compactmachines3.wall: OP
+ftbutilities.claims.block.interact.compactmachines3.wallbreakable: OP
 ftbutilities.claims.block.interact.cpd.compressedcobblestone: OP
 ftbutilities.claims.block.interact.cpd.compresseddirt: OP
 ftbutilities.claims.block.interact.cpd.compressedendstone: OP
@@ -3301,6 +3368,7 @@ ftbutilities.claims.block.interact.endmetals.end_lapis_ore: OP
 ftbutilities.claims.block.interact.endmetals.end_lead_ore: OP
 ftbutilities.claims.block.interact.endmetals.end_mercury_ore: OP
 ftbutilities.claims.block.interact.endmetals.end_nickel_ore: OP
+ftbutilities.claims.block.interact.endmetals.end_osmium_ore: OP
 ftbutilities.claims.block.interact.endmetals.end_platinum_ore: OP
 ftbutilities.claims.block.interact.endmetals.end_redstone_ore: OP
 ftbutilities.claims.block.interact.endmetals.end_rutile_ore: OP
@@ -3626,6 +3694,20 @@ ftbutilities.claims.block.interact.harvestcraft.watertrap: OP
 ftbutilities.claims.block.interact.harvestcraft.waxcomb: OP
 ftbutilities.claims.block.interact.harvestcraft.well: OP
 ftbutilities.claims.block.interact.harvestcraft.windygarden: OP
+ftbutilities.claims.block.interact.icbmclassic.batterybox: OP
+ftbutilities.claims.block.interact.icbmclassic.concrete: OP
+ftbutilities.claims.block.interact.icbmclassic.cruiselauncher: OP
+ftbutilities.claims.block.interact.icbmclassic.emptower: OP
+ftbutilities.claims.block.interact.icbmclassic.explosives: OP
+ftbutilities.claims.block.interact.icbmclassic.glassbutton: OP
+ftbutilities.claims.block.interact.icbmclassic.glasspressureplate: OP
+ftbutilities.claims.block.interact.icbmclassic.launcherbase: OP
+ftbutilities.claims.block.interact.icbmclassic.launcherframe: OP
+ftbutilities.claims.block.interact.icbmclassic.launcherscreen: OP
+ftbutilities.claims.block.interact.icbmclassic.multiblock: OP
+ftbutilities.claims.block.interact.icbmclassic.radarstation: OP
+ftbutilities.claims.block.interact.icbmclassic.reinforcedglass: OP
+ftbutilities.claims.block.interact.icbmclassic.spikes: OP
 ftbutilities.claims.block.interact.industrialforegoing.animal_byproduct_recolector: OP
 ftbutilities.claims.block.interact.industrialforegoing.animal_growth_increaser: OP
 ftbutilities.claims.block.interact.industrialforegoing.animal_independence_selector: OP
@@ -3731,6 +3813,26 @@ ftbutilities.claims.block.interact.lootbags.loot_opener: OP
 ftbutilities.claims.block.interact.lootbags.loot_recycler: OP
 ftbutilities.claims.block.interact.lootbags.loot_storage: OP
 ftbutilities.claims.block.interact.mcjtylib_ng.multipart: OP
+ftbutilities.claims.block.interact.mekanism.basicblock2: OP
+ftbutilities.claims.block.interact.mekanism.basicblock: OP
+ftbutilities.claims.block.interact.mekanism.boundingblock: OP
+ftbutilities.claims.block.interact.mekanism.cardboardbox: OP
+ftbutilities.claims.block.interact.mekanism.energycube: OP
+ftbutilities.claims.block.interact.mekanism.gastank: OP
+ftbutilities.claims.block.interact.mekanism.glowpanel: OP
+ftbutilities.claims.block.interact.mekanism.glowplasticblock: OP
+ftbutilities.claims.block.interact.mekanism.machineblock2: OP
+ftbutilities.claims.block.interact.mekanism.machineblock3: OP
+ftbutilities.claims.block.interact.mekanism.machineblock: OP
+ftbutilities.claims.block.interact.mekanism.obsidiantnt: OP
+ftbutilities.claims.block.interact.mekanism.oreblock: OP
+ftbutilities.claims.block.interact.mekanism.plasticblock: OP
+ftbutilities.claims.block.interact.mekanism.plasticfence: OP
+ftbutilities.claims.block.interact.mekanism.reinforcedplasticblock: OP
+ftbutilities.claims.block.interact.mekanism.roadplasticblock: OP
+ftbutilities.claims.block.interact.mekanism.saltblock: OP
+ftbutilities.claims.block.interact.mekanism.slickplasticblock: OP
+ftbutilities.claims.block.interact.mekanism.transmitter: OP
 ftbutilities.claims.block.interact.minecraft.acacia_door: ALL
 ftbutilities.claims.block.interact.minecraft.acacia_fence: OP
 ftbutilities.claims.block.interact.minecraft.acacia_fence_gate: OP
@@ -3996,6 +4098,10 @@ ftbutilities.claims.block.interact.modernmetals.iridium: OP
 ftbutilities.claims.block.interact.modernmetals.iridium_block: OP
 ftbutilities.claims.block.interact.modernmetals.iridium_ore: OP
 ftbutilities.claims.block.interact.modernmetals.iridium_plate: OP
+ftbutilities.claims.block.interact.modernmetals.osmium: OP
+ftbutilities.claims.block.interact.modernmetals.osmium_block: OP
+ftbutilities.claims.block.interact.modernmetals.osmium_ore: OP
+ftbutilities.claims.block.interact.modernmetals.osmium_plate: OP
 ftbutilities.claims.block.interact.modernmetals.rutile: OP
 ftbutilities.claims.block.interact.modernmetals.rutile_block: OP
 ftbutilities.claims.block.interact.modernmetals.rutile_ore: OP
@@ -4018,6 +4124,7 @@ ftbutilities.claims.block.interact.nethermetals.nether_lapis_ore: OP
 ftbutilities.claims.block.interact.nethermetals.nether_lead_ore: OP
 ftbutilities.claims.block.interact.nethermetals.nether_mercury_ore: OP
 ftbutilities.claims.block.interact.nethermetals.nether_nickel_ore: OP
+ftbutilities.claims.block.interact.nethermetals.nether_osmium_ore: OP
 ftbutilities.claims.block.interact.nethermetals.nether_platinum_ore: OP
 ftbutilities.claims.block.interact.nethermetals.nether_redstone_ore: OP
 ftbutilities.claims.block.interact.nethermetals.nether_rutile_ore: OP
@@ -4097,6 +4204,7 @@ ftbutilities.claims.block.interact.refinedstorage.storage: OP
 ftbutilities.claims.block.interact.refinedstorage.storage_monitor: OP
 ftbutilities.claims.block.interact.refinedstorage.wireless_transmitter: OP
 ftbutilities.claims.block.interact.refinedstorage.writer: OP
+ftbutilities.claims.block.interact.refinedstoragerequestify.requester: OP
 ftbutilities.claims.block.interact.rftools.analog_block: OP
 ftbutilities.claims.block.interact.rftools.block_protector: OP
 ftbutilities.claims.block.interact.rftools.booster: OP
@@ -4321,8 +4429,12 @@ ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_gold_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_halfslab: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_iron_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_lapis_ore: OP
+ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_mekanism_oreblock: OP
+ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_mekanism_oreblock_1: OP
+ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_mekanism_oreblock_2: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_modernmetals_aluminum_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_modernmetals_iridium_ore: OP
+ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_modernmetals_osmium_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_modernmetals_rutile_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_modernmetals_titanium_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.igneous_stone_redstone_ore: OP
@@ -4423,8 +4535,12 @@ ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_gold_ore:
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_halfslab: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_iron_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_lapis_ore: OP
+ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_mekanism_oreblock: OP
+ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_mekanism_oreblock_1: OP
+ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_mekanism_oreblock_2: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_modernmetals_aluminum_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_modernmetals_iridium_ore: OP
+ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_modernmetals_osmium_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_modernmetals_rutile_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_modernmetals_titanium_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.metamorphic_stone_redstone_ore: OP
@@ -4502,8 +4618,12 @@ ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_gold_ore:
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_halfslab: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_iron_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_lapis_ore: OP
+ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_mekanism_oreblock: OP
+ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_mekanism_oreblock_1: OP
+ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_mekanism_oreblock_2: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_modernmetals_aluminum_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_modernmetals_iridium_ore: OP
+ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_modernmetals_osmium_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_modernmetals_rutile_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_modernmetals_titanium_ore: OP
 ftbutilities.claims.block.interact.undergroundbiomes.sedimentary_stone_mossy: OP
@@ -4676,6 +4796,44 @@ ftbutilities.claims.item.advancedrocketry.wafer: ALL
 ftbutilities.claims.item.advancedrocketry.warpcore: ALL
 ftbutilities.claims.item.advancedrocketry.warpmonitor: ALL
 ftbutilities.claims.item.advancedrocketry.wirelesstransciever: ALL
+ftbutilities.claims.item.aquaculture.admin_fishing_rod: ALL
+ftbutilities.claims.item.aquaculture.diamond_fishing_rod: ALL
+ftbutilities.claims.item.aquaculture.fish: ALL
+ftbutilities.claims.item.aquaculture.fishing_rod: ALL
+ftbutilities.claims.item.aquaculture.food: ALL
+ftbutilities.claims.item.aquaculture.gold_fishing_rod: ALL
+ftbutilities.claims.item.aquaculture.iron_fishing_rod: ALL
+ftbutilities.claims.item.aquaculture.loot: ALL
+ftbutilities.claims.item.aquaculture.neptunium_axe: ALL
+ftbutilities.claims.item.aquaculture.neptunium_boots: ALL
+ftbutilities.claims.item.aquaculture.neptunium_chestplate: ALL
+ftbutilities.claims.item.aquaculture.neptunium_helmet: ALL
+ftbutilities.claims.item.aquaculture.neptunium_hoe: ALL
+ftbutilities.claims.item.aquaculture.neptunium_leggings: ALL
+ftbutilities.claims.item.aquaculture.neptunium_pickaxe: ALL
+ftbutilities.claims.item.aquaculture.neptunium_shovel: ALL
+ftbutilities.claims.item.aquaculture.neptunium_sword: ALL
+ftbutilities.claims.item.armorunder.auto_chestplate_liner: ALL
+ftbutilities.claims.item.armorunder.auto_leggings_liner: ALL
+ftbutilities.claims.item.armorunder.cool_boots_liner: ALL
+ftbutilities.claims.item.armorunder.cool_chestplate_liner: ALL
+ftbutilities.claims.item.armorunder.cool_helmet_liner: ALL
+ftbutilities.claims.item.armorunder.cool_leggings_liner: ALL
+ftbutilities.claims.item.armorunder.cool_liner_material: ALL
+ftbutilities.claims.item.armorunder.cooling_goo: ALL
+ftbutilities.claims.item.armorunder.flipflop_goo: ALL
+ftbutilities.claims.item.armorunder.flipflop_liner_material: ALL
+ftbutilities.claims.item.armorunder.goopak_cool: ALL
+ftbutilities.claims.item.armorunder.goopak_heat: ALL
+ftbutilities.claims.item.armorunder.goopak_spent: ALL
+ftbutilities.claims.item.armorunder.heating_goo: ALL
+ftbutilities.claims.item.armorunder.liner_snips: ALL
+ftbutilities.claims.item.armorunder.mod_icon: ALL
+ftbutilities.claims.item.armorunder.warm_boots_liner: ALL
+ftbutilities.claims.item.armorunder.warm_chestplate_liner: ALL
+ftbutilities.claims.item.armorunder.warm_helmet_liner: ALL
+ftbutilities.claims.item.armorunder.warm_leggings_liner: ALL
+ftbutilities.claims.item.armorunder.warm_liner_material: ALL
 ftbutilities.claims.item.avaritia.block_resource: ALL
 ftbutilities.claims.item.avaritia.compressed_crafting_table: ALL
 ftbutilities.claims.item.avaritia.cosmic_meatballs: ALL
@@ -5489,6 +5647,15 @@ ftbutilities.claims.item.chisel.wool_purple: ALL
 ftbutilities.claims.item.chisel.wool_red: ALL
 ftbutilities.claims.item.chisel.wool_white: ALL
 ftbutilities.claims.item.chisel.wool_yellow: ALL
+ftbutilities.claims.item.compactmachines3.fieldprojector: ALL
+ftbutilities.claims.item.compactmachines3.machine: ALL
+ftbutilities.claims.item.compactmachines3.psd: ALL
+ftbutilities.claims.item.compactmachines3.redstonetunnel: ALL
+ftbutilities.claims.item.compactmachines3.redstonetunneltool: ALL
+ftbutilities.claims.item.compactmachines3.tunnel: ALL
+ftbutilities.claims.item.compactmachines3.tunneltool: ALL
+ftbutilities.claims.item.compactmachines3.wall: ALL
+ftbutilities.claims.item.compactmachines3.wallbreakable: ALL
 ftbutilities.claims.item.cpd.compressedcobblestone: ALL
 ftbutilities.claims.item.cpd.compresseddirt: ALL
 ftbutilities.claims.item.cpd.compressedendstone: ALL
@@ -5841,6 +6008,7 @@ ftbutilities.claims.item.endmetals.end_lapis_ore: ALL
 ftbutilities.claims.item.endmetals.end_lead_ore: ALL
 ftbutilities.claims.item.endmetals.end_mercury_ore: ALL
 ftbutilities.claims.item.endmetals.end_nickel_ore: ALL
+ftbutilities.claims.item.endmetals.end_osmium_ore: ALL
 ftbutilities.claims.item.endmetals.end_platinum_ore: ALL
 ftbutilities.claims.item.endmetals.end_redstone_ore: ALL
 ftbutilities.claims.item.endmetals.end_rutile_ore: ALL
@@ -7332,6 +7500,39 @@ ftbutilities.claims.item.harvestcraft.zucchinibreaditem: ALL
 ftbutilities.claims.item.harvestcraft.zucchinifriesitem: ALL
 ftbutilities.claims.item.harvestcraft.zucchiniitem: ALL
 ftbutilities.claims.item.harvestcraft.zucchiniseeditem: ALL
+ftbutilities.claims.item.icbmclassic.antidote: ALL
+ftbutilities.claims.item.icbmclassic.battery: ALL
+ftbutilities.claims.item.icbmclassic.batterybox: ALL
+ftbutilities.claims.item.icbmclassic.bombcart: ALL
+ftbutilities.claims.item.icbmclassic.circuit: ALL
+ftbutilities.claims.item.icbmclassic.clump: ALL
+ftbutilities.claims.item.icbmclassic.concrete: ALL
+ftbutilities.claims.item.icbmclassic.cruiselauncher: ALL
+ftbutilities.claims.item.icbmclassic.defuser: ALL
+ftbutilities.claims.item.icbmclassic.emptower: ALL
+ftbutilities.claims.item.icbmclassic.explosives: ALL
+ftbutilities.claims.item.icbmclassic.glassbutton: ALL
+ftbutilities.claims.item.icbmclassic.glasspressureplate: ALL
+ftbutilities.claims.item.icbmclassic.grenade: ALL
+ftbutilities.claims.item.icbmclassic.ingot: ALL
+ftbutilities.claims.item.icbmclassic.laserdetonator: ALL
+ftbutilities.claims.item.icbmclassic.launcherbase: ALL
+ftbutilities.claims.item.icbmclassic.launcherframe: ALL
+ftbutilities.claims.item.icbmclassic.launcherscreen: ALL
+ftbutilities.claims.item.icbmclassic.missile: ALL
+ftbutilities.claims.item.icbmclassic.plate: ALL
+ftbutilities.claims.item.icbmclassic.poisonpowder: ALL
+ftbutilities.claims.item.icbmclassic.radargun: ALL
+ftbutilities.claims.item.icbmclassic.radarstation: ALL
+ftbutilities.claims.item.icbmclassic.reinforcedglass: ALL
+ftbutilities.claims.item.icbmclassic.remotedetonator: ALL
+ftbutilities.claims.item.icbmclassic.rocketlauncher: ALL
+ftbutilities.claims.item.icbmclassic.saltpeter: ALL
+ftbutilities.claims.item.icbmclassic.signaldisrupter: ALL
+ftbutilities.claims.item.icbmclassic.spikes: ALL
+ftbutilities.claims.item.icbmclassic.sulfurdust: ALL
+ftbutilities.claims.item.icbmclassic.tracker: ALL
+ftbutilities.claims.item.icbmclassic.wire: ALL
 ftbutilities.claims.item.industrialforegoing.adult_filter: ALL
 ftbutilities.claims.item.industrialforegoing.animal_byproduct_recolector: ALL
 ftbutilities.claims.item.industrialforegoing.animal_growth_increaser: ALL
@@ -7486,6 +7687,78 @@ ftbutilities.claims.item.lootbags.loot_opener: ALL
 ftbutilities.claims.item.lootbags.loot_recycler: ALL
 ftbutilities.claims.item.lootbags.loot_storage: ALL
 ftbutilities.claims.item.mcjtylib_ng.multipart: ALL
+ftbutilities.claims.item.mekanism.anchorupgrade: ALL
+ftbutilities.claims.item.mekanism.armoredjetpack: ALL
+ftbutilities.claims.item.mekanism.atomicalloy: ALL
+ftbutilities.claims.item.mekanism.atomicdisassembler: ALL
+ftbutilities.claims.item.mekanism.balloon: ALL
+ftbutilities.claims.item.mekanism.basicblock2: ALL
+ftbutilities.claims.item.mekanism.basicblock: ALL
+ftbutilities.claims.item.mekanism.biofuel: ALL
+ftbutilities.claims.item.mekanism.boundingblock: ALL
+ftbutilities.claims.item.mekanism.cardboardbox: ALL
+ftbutilities.claims.item.mekanism.clump: ALL
+ftbutilities.claims.item.mekanism.compressedcarbon: ALL
+ftbutilities.claims.item.mekanism.compresseddiamond: ALL
+ftbutilities.claims.item.mekanism.compressedobsidian: ALL
+ftbutilities.claims.item.mekanism.compressedredstone: ALL
+ftbutilities.claims.item.mekanism.configurationcard: ALL
+ftbutilities.claims.item.mekanism.configurator: ALL
+ftbutilities.claims.item.mekanism.controlcircuit: ALL
+ftbutilities.claims.item.mekanism.craftingformula: ALL
+ftbutilities.claims.item.mekanism.crystal: ALL
+ftbutilities.claims.item.mekanism.dictionary: ALL
+ftbutilities.claims.item.mekanism.dirtydust: ALL
+ftbutilities.claims.item.mekanism.dust: ALL
+ftbutilities.claims.item.mekanism.electricbow: ALL
+ftbutilities.claims.item.mekanism.electrolyticcore: ALL
+ftbutilities.claims.item.mekanism.energycube: ALL
+ftbutilities.claims.item.mekanism.energytablet: ALL
+ftbutilities.claims.item.mekanism.energyupgrade: ALL
+ftbutilities.claims.item.mekanism.enrichedalloy: ALL
+ftbutilities.claims.item.mekanism.enrichediron: ALL
+ftbutilities.claims.item.mekanism.filterupgrade: ALL
+ftbutilities.claims.item.mekanism.flamethrower: ALL
+ftbutilities.claims.item.mekanism.freerunners: ALL
+ftbutilities.claims.item.mekanism.gasmask: ALL
+ftbutilities.claims.item.mekanism.gastank: ALL
+ftbutilities.claims.item.mekanism.gasupgrade: ALL
+ftbutilities.claims.item.mekanism.gaugedropper: ALL
+ftbutilities.claims.item.mekanism.glowpanel: ALL
+ftbutilities.claims.item.mekanism.glowplasticblock: ALL
+ftbutilities.claims.item.mekanism.ingot: ALL
+ftbutilities.claims.item.mekanism.itemproxy: ALL
+ftbutilities.claims.item.mekanism.jetpack: ALL
+ftbutilities.claims.item.mekanism.machineblock2: ALL
+ftbutilities.claims.item.mekanism.machineblock3: ALL
+ftbutilities.claims.item.mekanism.machineblock: ALL
+ftbutilities.claims.item.mekanism.mufflingupgrade: ALL
+ftbutilities.claims.item.mekanism.networkreader: ALL
+ftbutilities.claims.item.mekanism.nugget: ALL
+ftbutilities.claims.item.mekanism.obsidiantnt: ALL
+ftbutilities.claims.item.mekanism.oreblock: ALL
+ftbutilities.claims.item.mekanism.otherdust: ALL
+ftbutilities.claims.item.mekanism.plasticblock: ALL
+ftbutilities.claims.item.mekanism.plasticfence: ALL
+ftbutilities.claims.item.mekanism.polyethene: ALL
+ftbutilities.claims.item.mekanism.portableteleporter: ALL
+ftbutilities.claims.item.mekanism.reinforcedalloy: ALL
+ftbutilities.claims.item.mekanism.reinforcedplasticblock: ALL
+ftbutilities.claims.item.mekanism.roadplasticblock: ALL
+ftbutilities.claims.item.mekanism.robit: ALL
+ftbutilities.claims.item.mekanism.salt: ALL
+ftbutilities.claims.item.mekanism.saltblock: ALL
+ftbutilities.claims.item.mekanism.sawdust: ALL
+ftbutilities.claims.item.mekanism.scubatank: ALL
+ftbutilities.claims.item.mekanism.seismicreader: ALL
+ftbutilities.claims.item.mekanism.shard: ALL
+ftbutilities.claims.item.mekanism.slickplasticblock: ALL
+ftbutilities.claims.item.mekanism.speedupgrade: ALL
+ftbutilities.claims.item.mekanism.substrate: ALL
+ftbutilities.claims.item.mekanism.teleportationcore: ALL
+ftbutilities.claims.item.mekanism.tierinstaller: ALL
+ftbutilities.claims.item.mekanism.transmitter: ALL
+ftbutilities.claims.item.mekanism.walkietalkie: ALL
 ftbutilities.claims.item.minecraft.acacia_boat: ALL
 ftbutilities.claims.item.minecraft.acacia_door: ALL
 ftbutilities.claims.item.minecraft.acacia_fence: ALL
@@ -7946,6 +8219,18 @@ ftbutilities.claims.item.modernmetals.iridium_powder: ALL
 ftbutilities.claims.item.modernmetals.iridium_powder_dirty: ALL
 ftbutilities.claims.item.modernmetals.iridium_shard: ALL
 ftbutilities.claims.item.modernmetals.iridium_shears: ALL
+ftbutilities.claims.item.modernmetals.osmium: ALL
+ftbutilities.claims.item.modernmetals.osmium_block: ALL
+ftbutilities.claims.item.modernmetals.osmium_crushed: ALL
+ftbutilities.claims.item.modernmetals.osmium_crushed_purified: ALL
+ftbutilities.claims.item.modernmetals.osmium_gear: ALL
+ftbutilities.claims.item.modernmetals.osmium_horse_armor: ALL
+ftbutilities.claims.item.modernmetals.osmium_ingot: ALL
+ftbutilities.claims.item.modernmetals.osmium_nugget: ALL
+ftbutilities.claims.item.modernmetals.osmium_ore: ALL
+ftbutilities.claims.item.modernmetals.osmium_plate: ALL
+ftbutilities.claims.item.modernmetals.osmium_powder: ALL
+ftbutilities.claims.item.modernmetals.osmium_shears: ALL
 ftbutilities.claims.item.modernmetals.rutile: ALL
 ftbutilities.claims.item.modernmetals.rutile_block: ALL
 ftbutilities.claims.item.modernmetals.rutile_clump: ALL
@@ -8002,6 +8287,7 @@ ftbutilities.claims.item.nethermetals.nether_lapis_ore: ALL
 ftbutilities.claims.item.nethermetals.nether_lead_ore: ALL
 ftbutilities.claims.item.nethermetals.nether_mercury_ore: ALL
 ftbutilities.claims.item.nethermetals.nether_nickel_ore: ALL
+ftbutilities.claims.item.nethermetals.nether_osmium_ore: ALL
 ftbutilities.claims.item.nethermetals.nether_platinum_ore: ALL
 ftbutilities.claims.item.nethermetals.nether_redstone_ore: ALL
 ftbutilities.claims.item.nethermetals.nether_rutile_ore: ALL
@@ -8196,6 +8482,7 @@ ftbutilities.claims.item.refinedstorage.wireless_transmitter: ALL
 ftbutilities.claims.item.refinedstorage.wrench: ALL
 ftbutilities.claims.item.refinedstorage.writer: ALL
 ftbutilities.claims.item.refinedstorageaddons.wireless_crafting_grid: ALL
+ftbutilities.claims.item.refinedstoragerequestify.requester: ALL
 ftbutilities.claims.item.rftools.advanced_charged_porter: ALL
 ftbutilities.claims.item.rftools.analog_block: ALL
 ftbutilities.claims.item.rftools.blindness_module: ALL
@@ -8787,8 +9074,12 @@ ftbutilities.claims.item.undergroundbiomes.igneous_stone_gold_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_halfslab: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_iron_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_lapis_ore: ALL
+ftbutilities.claims.item.undergroundbiomes.igneous_stone_mekanism_oreblock: ALL
+ftbutilities.claims.item.undergroundbiomes.igneous_stone_mekanism_oreblock_1: ALL
+ftbutilities.claims.item.undergroundbiomes.igneous_stone_mekanism_oreblock_2: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_modernmetals_aluminum_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_modernmetals_iridium_ore: ALL
+ftbutilities.claims.item.undergroundbiomes.igneous_stone_modernmetals_osmium_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_modernmetals_rutile_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_modernmetals_titanium_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.igneous_stone_redstone_ore: ALL
@@ -8868,8 +9159,12 @@ ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_gold_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_halfslab: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_iron_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_lapis_ore: ALL
+ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_mekanism_oreblock: ALL
+ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_mekanism_oreblock_1: ALL
+ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_mekanism_oreblock_2: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_modernmetals_aluminum_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_modernmetals_iridium_ore: ALL
+ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_modernmetals_osmium_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_modernmetals_rutile_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_modernmetals_titanium_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.metamorphic_stone_redstone_ore: ALL
@@ -8938,8 +9233,12 @@ ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_gold_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_halfslab: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_iron_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_lapis_ore: ALL
+ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_mekanism_oreblock: ALL
+ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_mekanism_oreblock_1: ALL
+ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_mekanism_oreblock_2: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_modernmetals_aluminum_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_modernmetals_iridium_ore: ALL
+ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_modernmetals_osmium_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_modernmetals_rutile_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_modernmetals_titanium_ore: ALL
 ftbutilities.claims.item.undergroundbiomes.sedimentary_stone_mossy: ALL
@@ -8999,6 +9298,7 @@ command.cofhcore.cofh
 command.cofhworld.cofhworld.list
 command.cofhworld.cofhworld.reload
 command.cofhworld.cofhworld.version
+command.compactmachines3.compactmachines3
 command.crafttweaker.crafttweaker
 command.crafttweaker.ctgui
 command.customstartinggear.csg_config
@@ -9122,6 +9422,8 @@ command.hammercore.hc_timetoticks
 command.hammercore.hc_tpx
 command.hardcoredarkness.hardcoredarkness
 command.help
+command.icbmclassic.icbm
+command.icbmclassic.icbmc
 command.jeresources.jer_profile
 command.journeymap.jtp
 command.justenoughdimensions.jed
@@ -9134,6 +9436,16 @@ command.lootbags./lootbags_identifysources
 command.lootbags./lootbags_itemdump
 command.lootbags./lootbags_reloadconfig
 command.me
+command.mekanism.mek.chunk.clear
+command.mekanism.mek.chunk.flush
+command.mekanism.mek.chunk.unwatch
+command.mekanism.mek.chunk.watch
+command.mekanism.mek.debug
+command.mekanism.mek.testrules
+command.mekanism.mek.tp
+command.mekanism.mek.tpop
+command.mekanism.mtp
+command.mekanism.mtpop
 command.openblocks.flimflam
 command.openblocks.luck
 command.openblocks.ob_inventory

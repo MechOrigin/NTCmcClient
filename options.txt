@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:0.0
 saturation:0.0
-renderDistance:12
+renderDistance:32
 guiScale:2
 particles:0
 bobView:true
@@ -131,6 +131,10 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_mekanism.key.mode:50
+key_mekanism.key.armorMode:34
+key_mekanism.key.feetMode:35
+key_mekanism.key.voice:22
 key_key.projectex.focusSearchBar:15
 key_key.refinedstorageaddons.openWirelessCraftingGrid:34:CONTROL
 key_key.porterNextDestination:27
